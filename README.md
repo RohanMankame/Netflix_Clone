@@ -10,7 +10,7 @@ This project is a clone of the popular streaming service Netflix. It allows user
 
 * **User Authentication**:
     * Sign up, login, and sign out functionality.
-    * OAuth integration with Google and GitHub..ts]
+    * OAuth integration with Google and GitHub
 * **Movie Browse**:
     * Display a billboard/hero section with a featured movie.
     * List movies in categories like "Trending Now" and "My List".
